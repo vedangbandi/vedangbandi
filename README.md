@@ -46,7 +46,7 @@ Mumbai, India (IST)
 
 ### 🔗 Social Links
 
-- [LinkedIn](https://www.linkedin.com/in/vedangbandi)
+- [LinkedIn](https://www.linkedin.com/in/bandivedang1483/)
 - [GitHub](https://github.com/vedangbandi)
 
 ---
