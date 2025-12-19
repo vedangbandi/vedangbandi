@@ -25,6 +25,7 @@ user@matrix:~$ cat profile.txt
 > Junior Engineer (Machine Vision)
 > AI & Data Science undergrad
 > Blending code, cameras, and creativity
+
 Passion for machine vision, AI systems, and DevOps pipelines.
 
 Loves making tech feel like a movie: visuals, motion, storytelling, and clean execution.
@@ -67,6 +68,7 @@ user@matrix:~$ ./list_projects.sh --top
 > SignBridge
 > InspecNet Pro
 > Optimum Finance
+
 🧏‍♀️ SignBridge – Real-time Sign Language Bridge
 Real-time sign language recognition translating gestures into text/speech to improve accessibility for deaf and hard-of-hearing users.
 Stack: Python - OpenCV - Deep Learning - Streamlit/React
