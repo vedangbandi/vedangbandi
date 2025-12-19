@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-**Engineering Student | Aspiring AI/DevOps Engineer | Cinephile & Creative Storyteller**
+**Software Engineer | Aspiring AI/ML Engineer | Cinephile & Creative Storyteller**
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1300&color=00C2FF&width=600&lines=Building+AI+and+DevOps-powered+solutions;Blending+computer+vision+with+storytelling;Always+learning%2C+coding%2C+and+creating" alt="Typing SVG" />
@@ -50,7 +50,7 @@ I blend **technical precision** with a **creative mindset**. While I engineer sc
 
 ### 🌍 Location & Timezone
 
-📍 Mumbai, India (IST)
+📍 Mumbai & Pune, India (IST)
 
 ---
 
