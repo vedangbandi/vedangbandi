@@ -6,29 +6,24 @@
 
 ### 🚀 Top Skills & Technologies
 
-- **Programming:** Python, SQL, Django
+- **Programming:** C#, Python, SQL, Django
 - **DevOps:** Docker, Git, CI/CD, Linux
 - **Machine Learning & Computer Vision**
-- **Cloud Fundamentals:** AWS, GCP, Azure
-- **Frontend:** ReactJS, HTML, CSS
-- **Cybersecurity:** Ethical Hacking
+- **Cloud Fundamentals:** AWS, GCP, Azure & OCI
+- **Frontend:** ReactJS, HTML, CSS, TypeScript
 - **Video Editing:** Premiere Pro, Filmora, Audacity
 
 ---
 
 ### 🌟 Notable Projects
+- **SignBridge – Real-time Sign Language Bridge**  
+  End-to-end sign language recognition system using computer vision and ML to translate signs into text/speech, aiming to improve accessibility for deaf and hard-of-hearing users.
+  
+- **InspecNet Pro – Defect Detection & Inspection Suite**  
+   Vision-based inspection toolkit designed for industrial use-cases, combining computer vision, ML, and intuitive dashboards to detect and analyze surface defects efficiently.
 
 - **Optimum Finance:**  
-  Personal finance manager using Django and LLMs to provide insights on expenses and savings.
-
-- **Sign Language Recognition System:**  
-  Real-time sign language interpreter leveraging computer vision and ML.
-
-- **News Summarizer:**  
-  NLP-powered tool that turns lengthy news articles into concise, digestible summaries.
-
-- **Online Exam Suite:**  
-  Secure online exam platform with automated grading and an admin dashboard.
+  Personal finance manager using Django and AI based Chatbot to provide insights on expenses and savings.
 
 ---
 
