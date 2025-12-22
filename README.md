@@ -44,7 +44,7 @@ Personal finance manager using Django and an AI-based chatbot to provide insight
 
 ### ✨ What Makes Me Unique?
 
-I blend **technical precision** with a **creative mindset**. While I engineer scalable solutions in AI and DevOps, I also channel my love for movies and video editing into storytelling. I thrive at the intersection of logic and art, always learning, building, and expressing through both code and creativity.
+I blend **technical precision** with a **creative mindset**. While I engineer scalable solutions in AI and Cloud, I also channel my love for movies and video editing into storytelling. I thrive at the intersection of logic and art, always learning, building, and expressing through both code and creativity.
 
 ---
 
