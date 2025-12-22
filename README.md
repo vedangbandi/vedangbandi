@@ -30,7 +30,7 @@
 
 - 🎯 **SignBridge – Real-time Sign Language Bridge**
 End-to-end sign language recognition system using computer vision and ML to translate signs into text/speech, aiming to improve accessibility for deaf and hard-of-hearing users.
-`Tech:` Python • OpenCV • Deep Learning • Streamlit/React (UI)
+`Tech:` Python • OpenCV • Deep Learning
 
 - 🧠 **InspecNet Pro – Defect Detection & Inspection Suite**
 Vision-based inspection toolkit for industrial use-cases, combining computer vision, ML, and intuitive dashboards to detect and analyze surface defects efficiently.
